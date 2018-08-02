@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>device_dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device_dropdown" fill="#4C4C4C">
+            <g id="arrowdown_0" transform="translate(9.500000, 9.500000)">
+                <path d="M3.76987004,4.78718645 C3.34220192,5.45923636 2.64700512,5.45639246 2.22114675,4.78718645 L0.394571597,1.91685406 C-0.0330965296,1.24480415 0.267485562,0.700000048 1.06838235,0.700000048 L4.92263445,0.700000048 C5.72243798,0.700000048 6.02230357,1.24764805 5.5964452,1.91685406 L3.76987004,4.78718645 Z" id="Triangle-2-Copy" transform="translate(2.995000, 2.995079) rotate(-360.000000) translate(-2.995000, -2.995079) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

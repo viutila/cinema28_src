@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>bt_stop_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M35,17.5 C35,27.166087 27.1645652,35 17.5,35 C7.83391304,35 0,27.166087 0,17.5 C0,7.83391304 7.83391304,0 17.5,0 C27.1645652,0 35,7.83391304 35,17.5 L35,17.5 Z" id="path-1"></path>
+    </defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="bt_stop_2">
+            <g id="stop">
+                <g id="Stroke-5577">
+                    <use fill-opacity="0" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFFFFF" stroke-width="1.5" d="M34.25,17.5 C34.25,8.24866225 26.7508873,0.75 17.5,0.75 C8.24812661,0.75 0.75,8.24812661 0.75,17.5 C0.75,26.7518734 8.24812661,34.25 17.5,34.25 C26.7508873,34.25 34.25,26.7513378 34.25,17.5 Z"></path>
+                </g>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="11.5" y="11.5" width="12" height="12" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

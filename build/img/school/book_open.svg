@@ -1,0 +1,51 @@
+<svg id="book_open.png_book_open.svg" data-name="book_open.png,book_open.svg" xmlns="http://www.w3.org/2000/svg" width="20" height="15" viewBox="0 0 20 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cb3232;
+      }
+
+      .cls-2 {
+        fill: #c41919;
+      }
+
+      .cls-3 {
+        fill: #971616;
+      }
+
+      .cls-4 {
+        fill: #990505;
+      }
+
+      .cls-5, .cls-9 {
+        fill: #cbb4af;
+      }
+
+      .cls-6 {
+        fill: #af9e9a;
+      }
+
+      .cls-7 {
+        fill: #fff4f2;
+      }
+
+      .cls-8 {
+        fill: #ffdfd9;
+      }
+
+      .cls-9 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_687" data-name="矩形 687" class="cls-1" y="1" width="10" height="14"/>
+  <rect id="矩形_687-2" data-name="矩形 687" class="cls-2" x="10" y="1" width="10" height="14"/>
+  <rect id="矩形_687-3" data-name="矩形 687" class="cls-3" y="14" width="10" height="1"/>
+  <rect id="矩形_687-4" data-name="矩形 687" class="cls-4" x="10" y="14" width="10" height="1"/>
+  <rect id="矩形_687-5" data-name="矩形 687" class="cls-5" x="1" y="12" width="9" height="1"/>
+  <rect id="矩形_687-6" data-name="矩形 687" class="cls-6" x="10" y="12" width="9" height="1"/>
+  <rect id="矩形_687-7" data-name="矩形 687" class="cls-7" x="1" width="9" height="12"/>
+  <rect id="矩形_687-8" data-name="矩形 687" class="cls-8" x="10" width="9" height="12"/>
+  <path id="矩形_695" data-name="矩形 695" class="cls-9" d="M122,2h7V3h-7V2Zm0,2h7V5h-7V4Zm0,2h7V7h-7V6Zm0,2h7V9h-7V8Z" transform="translate(-120)"/>
+  <path id="矩形_695-2" data-name="矩形 695" class="cls-9" d="M131,2h7V3h-7V2Zm0,2h7V5h-7V4Zm0,2h7V7h-7V6Zm0,2h7V9h-7V8Z" transform="translate(-120)"/>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>genius_device_disconnect</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="5.07392335%" y1="50%" x2="94.6585715%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FE9345" offset="0%"></stop>
+            <stop stop-color="#F3A935" offset="100%"></stop>
+            <stop stop-color="#F2AA34" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="12.5" cy="12.5" r="12.5"></circle>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="genius_device_disconnect">
+            <g id="Group" transform="translate(2.500000, 2.500000)">
+                <g id="Oval-7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g transform="translate(11.500000, 6.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-7" transform="translate(1.000000, 4.500000) rotate(-360.000000) translate(-1.000000, -4.500000) " x="0" y="0" width="2" height="9" rx="1"></rect>
+                    <rect id="Rectangle-7-Copy" transform="translate(1.000000, 11.500000) rotate(-360.000000) translate(-1.000000, -11.500000) " x="0" y="10.5" width="2" height="2" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

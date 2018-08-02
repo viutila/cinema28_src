@@ -1,0 +1,21 @@
+<svg id="frameset_help.png_frameset_help.svg" data-name="frameset_help.png,frameset_help.svg" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #3f4049;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 9.246px;
+        font-family: Roboto;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <path id="Help_icon" class="cls-1" d="M12,274A10,10,0,1,1,2,284,10,10,0,0,1,12,274Zm0,2a8,8,0,1,1-8,8A8,8,0,0,1,12,276Z" transform="translate(-2 -274)"/>
+  <text id="_" data-name="?" class="cls-2" transform="translate(6.054 16.335) scale(1.73)">?</text>
+</svg>

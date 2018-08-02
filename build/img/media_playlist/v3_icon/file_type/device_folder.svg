@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>device_folder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="device_folder" stroke="#FFFFFF" stroke-width="1.5">
+            <path d="M21.1052632,22.1057368 L6.89473684,22.1057368 C5.84978947,22.1057368 5,21.2559474 5,20.2119474 L5,7.89378947 C5,6.84931579 5.84978947,6 6.89473684,6 L12.9934211,6 C13.2871053,6 13.5509474,6.16294737 13.6816842,6.42536842 L14.4530566,8.23114542 L14.4530566,8.23114542 C14.6103686,8.59941183 14.972209,8.83831579 15.3726678,8.83831579 L21.1052632,8.83831579 C22.1502105,8.83831579 23,9.68810526 23,10.7321053 L23,20.2119474 C23,21.2559474 22.1502105,22.1057368 21.1052632,22.1057368 Z" id="file"></path>
+        </g>
+    </g>
+</svg>

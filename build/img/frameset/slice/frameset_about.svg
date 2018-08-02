@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3f4049;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="frameset__about.png_frameset__about.svg" data-name="frameset_ about.png,frameset_ about.svg" class="cls-1" d="M12,332A10,10,0,1,1,2,342,10,10,0,0,1,12,332Zm0,2a8,8,0,1,1-8,8A8,8,0,0,1,12,334Zm-1.25,1.75h2.5v2.5h-2.5v-2.5Zm0,3.75h2.5v8.75h-2.5V339.5Z" transform="translate(-2 -332)"/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="60px" viewBox="0 0 70 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>pc_l</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="pc_l" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group-19" transform="translate(11.000000, 8.000000)">
+                <path d="M45.3358889,34.0972083 L3.4182037,34.0972083 C1.8247963,34.0972083 0.532648148,32.8215417 0.532648148,31.2484583 L0.532648148,3.1363125 C0.532648148,1.564125 1.8247963,0.289354167 3.4182037,0.289354167 L45.3358889,0.289354167 C46.9292963,0.289354167 48.2214444,1.564125 48.2214444,3.1363125 L48.2214444,31.2484583 C48.2214444,32.8215417 46.9292963,34.0972083 45.3358889,34.0972083 Z" id="Stroke-56"></path>
+                <path d="M24.9537944,29.931225 C24.9537944,30.2456625 24.6951833,30.500975 24.3775907,30.500975 C24.0590907,30.500975 23.8004796,30.2456625 23.8004796,29.931225 C23.8004796,29.6167875 24.0590907,29.361475 24.3775907,29.361475 C24.6951833,29.361475 24.9537944,29.6167875 24.9537944,29.931225 Z" id="Stroke-57" fill="#FFFFFF"></path>
+                <polygon id="Stroke-58" points="30.5027722 41.151 18.2518648 41.151 19.5567167 34.1876875 29.1979204 34.1876875"></polygon>
+                <path d="M15,41.2 L32.8659444,41.2" id="Stroke-59"></path>
+                <path d="M0.533101852,25 L48.2209907,25" id="Stroke-60"></path>
+            </g>
+        </g>
+    </g>
+</svg>

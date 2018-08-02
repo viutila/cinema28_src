@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>device_cd</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.5,27 C6.04415588,27 0,20.9558441 0,13.5 C0,6.04415588 6.04415588,0 13.5,0 C20.9558441,0 27,6.04415588 27,13.5 C27,20.9558441 20.9558441,27 13.5,27 Z M13.5,18.9 C16.4823376,18.9 18.9,16.4823376 18.9,13.5 C18.9,10.5176624 16.4823376,8.1 13.5,8.1 C10.5176624,8.1 8.1,10.5176624 8.1,13.5 C8.1,16.4823376 10.5176624,18.9 13.5,18.9 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device_cd">
+            <g id="Group" transform="translate(3.500000, 3.500000)">
+                <g id="Combined-Shape">
+                    <use fill="#2A8BAB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#2A8BAB" stroke-width="2" d="M13.5,26 C6.59644063,26 1,20.4035594 1,13.5 C1,6.59644063 6.59644063,1 13.5,1 C20.4035594,1 26,6.59644063 26,13.5 C26,20.4035594 20.4035594,26 13.5,26 Z M13.5,19.9 C17.0346224,19.9 19.9,17.0346224 19.9,13.5 C19.9,9.9653776 17.0346224,7.1 13.5,7.1 C9.9653776,7.1 7.1,9.9653776 7.1,13.5 C7.1,17.0346224 9.9653776,19.9 13.5,19.9 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

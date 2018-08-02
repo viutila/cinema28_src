@@ -1,0 +1,23 @@
+<svg id="framset_language.png_framset_language.svg" data-name="framset_language.png,framset_language.svg" xmlns="http://www.w3.org/2000/svg" width="21.5" height="21.5" viewBox="0 0 21.5 21.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #3f4049;
+      }
+
+      .cls-1 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-2 {
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="橢圓_29" data-name="橢圓 29" class="cls-1" cx="10.75" cy="10.75" r="10"/>
+  <path id="形狀_205" data-name="形狀 205" class="cls-2" d="M4,319v-2H21l-1,2H4Zm-2-4v-2H22v2H2Zm9-11h2v20H11V304Zm-9,7,2-2H20l1,2H2Z" transform="translate(-1.25 -303.25)"/>
+  <path id="形狀_207" data-name="形狀 207" class="cls-2" d="M11.333,305.333a9.615,9.615,0,0,0-4,8c0,4.314.735,6.595,4,9.333" transform="translate(-1.25 -303.25)"/>
+  <path id="形狀_207_拷貝" data-name="形狀 207 拷貝" class="cls-2" d="M14,305.333a9.615,9.615,0,0,1,4,8c0,4.314-.735,6.595-4,9.333" transform="translate(-1.25 -303.25)"/>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="17.625%" y1="84.9863281%" x2="49.9318659%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="50.5600287%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="44" cy="6" r="6"></circle>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="12" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6">
+            <path d="M70,120 C42.3857625,120 20,97.6142375 20,70 C20,42.3857625 42.3857625,20 70,20 C97.6142375,20 120,42.3857625 120,70 C120,97.6142375 97.6142375,120 70,120 Z M70,117.169811 C96.0511674,117.169811 117.169811,96.0511674 117.169811,70 C117.169811,43.9488326 96.0511674,22.8301887 70,22.8301887 C43.9488326,22.8301887 22.8301887,43.9488326 22.8301887,70 C22.8301887,96.0511674 43.9488326,117.169811 70,117.169811 Z" id="Oval-4" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <circle id="Oval-4" stroke="#FFFFFF" stroke-width="4" opacity="0.900000036" cx="71" cy="71" r="60"></circle>
+            <g id="１" transform="translate(117.150635, 50.274991) rotate(-372.000000) translate(-117.150635, -50.274991) translate(92.150635, 11.274991)">
+                <rect id="Rectangle-3" fill="#FFFFFF" transform="translate(7.543971, 70.284921) rotate(-312.000000) translate(-7.543971, -70.284921) " x="4.0439709" y="63.2849211" width="7" height="14" rx="3.5"></rect>
+                <polyline id="Path-2" stroke="#FFFFFF" stroke-width="2" points="12 66.5141145 24.6099805 55.7634374 41.7954064 10.3050638"></polyline>
+                <use id="Oval-2" stroke="#FFFFFF" mask="url(#mask-3)" stroke-width="4" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

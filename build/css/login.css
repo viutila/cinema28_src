@@ -1,0 +1,176 @@
+/* login popup style */
+
+.login {
+    width: 442px;
+    height: 490px;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin: 0 auto;
+    padding: 80px 54px 0 54px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+    outline: none;
+}
+
+.login .divAccountBoxUserName {
+    padding: 8px 12px;
+    width: 240px;
+    height:initial;
+    font-size: 14px;
+    border: 1px solid #707070;
+}
+
+.login .divAccountBoxUserName:focus {
+    outline: none;
+    border: 1px solid #2f2f2f;
+}
+
+
+.login .divAccountBox {
+    margin-top: 27px;
+    margin-left: 54px;
+}
+
+.login .divAccountBoxUserPassword {
+    padding: 8px 12px;
+    width: 240px;
+    height:initial;
+    font-size: 14px;
+    border: 1px solid #707070;
+}
+
+.login .divAccountBoxUserPassword:focus {
+    outline: none;
+    border: 1px solid #2f2f2f;
+}
+
+.login .divAccountTextClose {
+    background: url("img/sys/btn_text_close.png") no-repeat scroll 0 0;
+    height: 14px;
+    position: absolute;
+    right: 53px;
+    top: 12px;
+    width: 14px;
+    cursor: pointer;
+}
+.login .divAccountTextClose:hover {
+    background: url("img/sys/btn_text_close_over.png") no-repeat scroll 0 0;
+}
+.login .divAccountTextClose:active {
+    background: url("img/sys/btn_text_close_pressed.png") no-repeat scroll 0 0;
+}
+.login .divPasswordEye {
+    background: url("img/sys/eye_normal.png") no-repeat scroll 0 0;
+    height: 12px;
+    position: absolute;
+    right: 50px;
+    top: 18px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.login .divPasswordEye:hover {
+    background: url("img/sys/eye_over.png") no-repeat scroll 0 0;
+}
+
+.login .divPasswordEye:active {
+    background: url("img/sys/eye_pressed.png") no-repeat scroll 0 0;
+}
+
+.login .divPasswordEyeOver {
+    background: url("img/sys/eye_over.png") no-repeat scroll 0 0;
+    height: 12px;
+    position: absolute;
+    right: 50px;
+    top: 18px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.login .divPasswordEyeOver:hover {
+    background: url("img/sys/eye_normal.png") no-repeat scroll 0 0;
+}
+
+.login .divPasswordEyeOver:active {
+    background: url("img/sys/eye_pressed.png") no-repeat scroll 0 0;
+}
+
+.login label.checkbox{
+    padding-left: 22px;
+}
+
+.login label.checkbox.checked{
+    padding-left: 22px;
+}
+
+.login .title {
+    color: #595757;
+    font-size: 36px;
+    text-align: center;
+}
+
+.login .spanBold {
+    font-weight: bold;
+}
+
+.login .divRelative {
+    position: relative;
+}
+
+.login .divVisibleHidden {
+    visibility: hidden;
+}
+
+.login .divDisplayNone {
+    display: none;
+}
+
+.login .divDisplayBlock {
+    display: block;
+}
+
+.login .divLabel {
+    font-size: 14px;
+    vertical-align: middle;
+    color: #2f2f2f;
+    font-weight: normal;
+}
+
+.login .divErrMsg {
+    font-size: 14px;
+    color: #ff5a00;
+    visibility: unset;
+}
+
+.login .divBtnBox {
+    margin-left: 48px;
+    margin-top: 52px;
+}
+
+.login .divLoginBtn {
+    width: 254px;
+    height: 47px;
+    background: linear-gradient(to bottom, #4982eb, #3275ef);
+    border: 0px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.login .divLoginBtn:hover {
+    background: linear-gradient(to bottom, #6a9af3, #417eef);
+}
+
+.login .divLoginBtn:focus {
+    background: linear-gradient(to bottom, #3571de, #1759d1);
+}
+
+.login .windowCloseBtn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+
+.changePasswordBox {
+    width: 500px;
+    margin: 0 auto;
+}

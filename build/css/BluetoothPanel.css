@@ -1,0 +1,176 @@
+.arrow_box_bt {
+	position: relative;
+	/*background: linear-gradient(to bottom, #E6E5E5 0%, #FFFFFF 100%);*/
+	/*border: 1px solid #ffffff;*/
+    /*border-radius: 6px;*/
+}
+.arrow_box_bt:after, .arrow_box_bt:before {
+	bottom: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.arrow_box_bt:after {
+	border-color: rgba(34, 45, 50, 0);
+	border-bottom-color: #374368;
+	border-width: 8px;
+	margin-left: -143px;
+}
+.arrow_box_bt:before {
+	border-color: rgba(255, 255, 255, 0);
+	border-bottom-color: rgba(26,29,45,1);
+	border-width: 9px;
+	margin-left: -144px;
+}
+
+
+
+
+
+
+.loader-line-mask {
+    position: absolute;
+    left: 95%;
+    top: 65px;
+    width: 30px;
+    height: 60px;
+    margin-left: -60px;
+    margin-top: -60px;
+    overflow: hidden;
+    transform-origin: 30px 30px;
+    -webkit-mask-image: -webkit-linear-gradient(
+      top,
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0)
+    );
+    animation: spin 1.2s infinite linear;
+}
+
+.loader-line-mask>.loader-line {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.5);
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+.stdButtonBt {
+    min-width: 80px;
+    height: 20px;
+    padding: 0 10px;
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    font-size: 12px;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.stdButtonBt:hover {
+    /*border-color: #707070;
+    color: #707070;*/
+    background-color: rgba(0,0,0,0.4);
+}
+
+.stdButtonBt:active {
+    border-color: #000000;
+    /*color: #2f2f2f;*/
+    background-color: rgba(0,0,0,0.4);
+}
+
+.devActBtn {
+    min-width: 60px;
+    height: 20px;
+    padding: 0 5px;
+    background-color: #374368;
+    border: 0;
+    font-size: 12px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.devActBtn:hover {
+    /*border-color: #707070;
+    color: #707070;*/
+    background-color: rgba(0,0,0,0.75);
+}
+
+.devActBtn:active {
+    /*border-color: #000000;*/
+    /*color: #2f2f2f;*/
+    background-color: rgba(0,0,0,0.8);
+}
+
+.devActBtnDis {
+    min-width: 60px;
+    height: 20px;
+    padding: 0 5px;
+    background-color: #374368;
+    border: 0;
+    font-size: 12px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    overflow: hidden;
+    cursor: default;
+}
+
+.stdButtonBtDis {
+    min-width: 80px;
+    height: 20px;
+    padding: 0 10px;
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    font-size: 12px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    cursor: default;
+}
+
+.triggerBtnDiv:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.triggerBtnDefault {
+    width: 30px;
+    height: 30px;
+    border: none;
+    padding: 0;
+    background: url("img/bt_panel/bluetooth_0.svg") top left / cover no-repeat;
+}
+
+.triggerBtnDefault:hover {
+    background: url("img/bt_panel/bluetooth_1.svg") top left / cover no-repeat;
+}
+
+.triggerBtnDefault:active {
+    background: url("img/bt_panel/bluetooth_2.svg") top left / cover no-repeat;
+}
+
+.triggerBtnConnection {
+    width: 30px;
+    height: 30px;
+    border: none;
+    padding: 0;
+    background: url("img/bt_panel/bluetooth_connection_0.svg") top left / cover no-repeat;
+}
+
+.triggerBtnConnection:hover {
+    background: url("img/bt_panel/bluetooth_connection_1.svg") top left / cover no-repeat;
+}
+
+.triggerBtnConnection:active {
+    background: url("img/bt_panel/bluetooth_connection_2.svg") top left / cover no-repeat;
+}

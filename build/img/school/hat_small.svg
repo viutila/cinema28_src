@@ -1,0 +1,32 @@
+<svg id="hat_small.png_hat_small.svg" data-name="hat_small.png,hat_small.svg" xmlns="http://www.w3.org/2000/svg" width="16" height="9" viewBox="0 0 16 9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #535353;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #7d7e7e;
+      }
+
+      .cls-3 {
+        fill: #fdb11a;
+      }
+
+      .cls-4 {
+        fill: #ffdc78;
+      }
+    </style>
+  </defs>
+  <path id="形狀_675" data-name="形狀 675" class="cls-1" d="M3.942,4.1L0,2.769,8,0l8,2.769L12,4.154,8,4.5Z"/>
+  <path id="形狀_674" data-name="形狀 674" class="cls-2" d="M12,3.807C11.25,3.232,9.8,3.115,8,3.115s-3.249.118-4,.692V7.269s1.095-.346,4,0.346c2.9-.692,4-0.346,4-0.346V3.807Z"/>
+  <path id="形狀_676" data-name="形狀 676" class="cls-3" d="M2.666,5.538H2.333V1.73H2.666V5.538Z"/>
+  <path id="形狀_678" data-name="形狀 678" class="cls-3" d="M2.33,6.574L1.665,8.786a1.783,1.783,0,0,0,1.665,0L2.774,6.574H2.33Z"/>
+  <path id="形狀_680" data-name="形狀 680" class="cls-4" d="M2.444,6.322L1.91,8.885A2.16,2.16,0,0,0,2.444,9L2.552,6.4Z"/>
+  <path id="形狀_677" data-name="形狀 677" class="cls-3" d="M3,6.056a0.5,0.5,0,1,1-.5-0.523A0.512,0.512,0,0,1,3,6.056Z"/>
+  <path id="形狀_679" data-name="形狀 679" class="cls-4" d="M2.658,6.043A0.161,0.161,0,1,1,2.5,5.876,0.164,0.164,0,0,1,2.658,6.043Z"/>
+</svg>

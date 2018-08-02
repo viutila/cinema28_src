@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>device_ftp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="8" y="23" width="12" height="1.5" rx="0.75"></rect>
+        <rect id="path-2" x="11.9049997" y="21.25" width="4" height="1.5"></rect>
+    </defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device_ftp">
+            <path d="M20.7105263,19.875 L7.28947368,19.875 C6.30257895,19.875 5.5,19.0901481 5.5,18.1259264 L5.5,6.74907356 C5.5,5.78441443 6.30257895,5 7.28947368,5 L13.0493421,5 C13.3267105,5 13.5758947,5.15049557 13.6993684,5.39286345 L14.4370762,7.08168731 L14.4370762,7.08168731 C14.5802834,7.4095295 14.9040691,7.6214229 15.2618244,7.6214229 L20.7105263,7.6214229 C21.6974211,7.6214229 22.5,8.40627482 22.5,9.37049646 L22.5,18.1259264 C22.5,19.0901481 21.6974211,19.875 20.7105263,19.875 Z" id="file" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <g id="Rectangle-24">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#FFFFFF" stroke-width="1" x="8.5" y="23.5" width="11" height="1" rx="0.5"></rect>
+            </g>
+            <g id="Rectangle-24" transform="translate(13.905000, 22.000000) rotate(-270.000000) translate(-13.905000, -22.000000) ">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#FFFFFF" stroke-width="1" x="12.4049997" y="21.75" width="3" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

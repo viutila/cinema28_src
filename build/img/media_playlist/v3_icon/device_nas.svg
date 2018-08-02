@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>device_nas</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device_nas">
+            <g id="Group" transform="translate(4.500000, 6.500000)">
+                <path d="M2,-1.35525272e-20 L17,-1.35525272e-20 L17,0 C18.1045695,-2.02908437e-16 19,0.8954305 19,2 L19,13 L19,13 C19,14.1045695 18.1045695,15 17,15 L2,15 L2,15 C0.8954305,15 8.94280938e-16,14.1045695 -2.22044605e-16,13 L0,2 L-2.22044605e-16,2 C-3.57315355e-16,0.8954305 0.8954305,2.02908437e-16 2,0 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="1.5"></path>
+                <circle id="Oval" fill="#FFFFFF" cx="3.5" cy="4" r="1"></circle>
+                <path d="M7,0 L7,14.9415884" id="Path-10" stroke="#FFFFFF" stroke-width="1.5"></path>
+                <path d="M13,4.41719125 L13,14.8000242" id="Path-10" stroke="#FFFFFF" stroke-width="1.5"></path>
+                <path d="M18.983511,4.5 L6.5,4.5" id="Path-10" stroke="#FFFFFF" stroke-width="1.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

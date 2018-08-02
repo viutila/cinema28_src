@@ -1,0 +1,70 @@
+.stdButtonQ {
+    height: 30px;
+    padding: 0 10px;
+    background: #ffffff;
+    border: 1px solid #707070;
+    font-size: 14px;
+    font-weight: bold;
+    color: #2f2f2f;
+    outline: 1px;
+}
+
+.stdButtonQ:hover {
+    border-color: #707070;
+    color: #707070;
+}
+
+.stdButtonQ:active {
+    border-color: #2f2f2f;
+    color: #2f2f2f;
+}
+
+
+.removePathBtn {
+    width: 16px;
+    height: 16px;
+    border: solid 1px #ffffff;
+    background-color: rgba(0,0,0,0);
+    background-image: url("img/media_playlist/trash_can/title_aciton_trashcan_n.png");
+    background-repeat: no-repeat;
+    background-size: 15px 15px
+
+}
+.removePathBtn:hover {
+    background-image: url("img/media_playlist/trash_can/title_aciton_trashcan_h.png");
+}
+
+.removePathBtn:active {
+    background-image: url("img/media_playlist/trash_can/title_aciton_trashcan_a.png");
+}
+
+.arrowRight {
+    background: url("img/control_btn/arrow_r_0.svg") top left / cover no-repeat;
+}
+
+.arrowLeft {
+    background: url("img/control_btn/arrow_l_0.svg") top left / cover no-repeat;
+}
+
+.btnTypeSelector {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 22px;
+    height: 22px;
+    border: 0px;
+    background-color: RGBA(0, 0, 0, 0);
+}
+.btnTypeSelector:hover {
+    background-color: #EFEFEF;
+}
+
+.divSizeIcon {
+    /*position: absolute;
+    top: 8px;
+    left: 245px;*/
+    height: 24px;
+    border: 1px solid #B0B0B0;
+    background-color: #FFFFFF;
+    width: 50px;
+}

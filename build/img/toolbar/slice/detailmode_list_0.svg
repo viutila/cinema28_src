@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>detailmode_list_0</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="detailmode_list_0" fill="#FFFFFF">
+            <g id="Group-2" transform="translate(11.000000, 11.000000) rotate(-270.000000) translate(-11.000000, -11.000000) translate(5.000000, 5.500000)">
+                <rect id="Rectangle-3" transform="translate(6.000000, 5.750000) rotate(-90.000000) translate(-6.000000, -5.750000) " x="5.25" y="-0.25" width="1.5" height="12" rx="0.75"></rect>
+                <rect id="Rectangle-3" transform="translate(6.000000, 9.750000) rotate(-90.000000) translate(-6.000000, -9.750000) " x="5.25" y="3.75" width="1.5" height="12" rx="0.75"></rect>
+                <rect id="Rectangle-3" transform="translate(7.975000, 1.700000) rotate(-90.000000) translate(-7.975000, -1.700000) " x="7.2249999" y="-2.2750001" width="1.5" height="7.94999981" rx="0.75"></rect>
+                <path d="M1.42239126,2.49533222 C1.22424092,2.80671132 0.902137239,2.80539366 0.704825413,2.49533222 L-0.141476799,1.16542874 C-0.339627136,0.854049639 -0.200359234,0.601627004 0.170718146,0.601627004 L1.95649853,0.601627004 C2.32706937,0.601627004 2.4660053,0.855367299 2.26869347,1.16542874 L1.42239126,2.49533222 Z" id="Triangle-2-Copy" transform="translate(1.063373, 1.665000) rotate(-90.000000) translate(-1.063373, -1.665000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>frameset_admin_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="frameset_admin_normal" stroke="#FFFFFF">
+            <g id="Page-1">
+                <polygon id="Stroke-1" points="0.5 27.5 27.5 27.5 27.5 0.5 0.5 0.5"></polygon>
+                <path d="M22.999,19.4678 C22.999,23.0288 19.442,22.4678 14.749,22.4678 C10.055,22.4678 6.001,23.0288 6.001,19.4678 C6.001,16.7238 8.265,14.9798 11.45,14.3208 C10.437,13.4548 9.777,12.1488 9.777,10.6668 L9.777,8.3028 C9.777,5.6928 11.774,4.4998 14.252,4.4998 C16.728,4.4998 18.75,5.6928 18.75,8.3028 L18.75,10.6668 C18.75,12.1058 18.126,13.3788 17.164,14.2458 C20.551,14.8388 22.999,16.6138 22.999,19.4678 Z" id="Stroke-3" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

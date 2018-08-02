@@ -1,0 +1,202 @@
+.mediaFileDiv, .folderDiv {
+    height: 50px;
+    width: 100%;
+    line-height: 50px;
+    background-color: #1F2635;
+    border-bottom: 1px solid #283040;
+    animation: fadeIn 0.3s;
+    cursor: pointer;
+}
+
+.mediaFileDiv:hover, .folderDiv:hover {
+    background-color: #283144;
+}
+
+
+.fileTypeDiv {
+    height:24px;
+    border: 1px solid #B0B0B0;
+    background-color: #FFFFFF;
+    margin: 8px 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    position: relative;
+    cursor: pointer;
+}
+
+.fileTypeDiv:hover {
+    background-color: #EBEBEB;
+}
+
+.stdButton {
+    min-width: 80px;
+    height: 30px;
+    padding: 0 22px 0 22px;
+    background: #ffffff;
+    border: 1px solid #707070;
+    font-size: 14px;
+    font-weight: bold;
+    color: #2f2f2f;
+    outline: 1px;
+}
+
+.stdButton:hover {
+    border-color: #707070;
+    color: #707070;
+}
+
+.stdButton:active {
+    border-color: #2f2f2f;
+    color: #2f2f2f;
+}
+
+.deleteItemBtn {
+    width: 13px;
+    height: 13px;
+    border: none;
+    background: url("img/control_btn/close_0.svg") top left / cover no-repeat;
+}
+.deleteItemBtn:hover {
+    background: url("img/control_btn/close_1.svg") top left / cover no-repeat;
+}
+.deleteItemBtn:active {
+    background: url("img/control_btn/close_2.svg") top left / cover no-repeat;
+}
+
+.fileTypeFilterBtn {
+    border: 0;
+    color: #FFF;
+    background: transparent;
+    font-size: 12px;
+    height: 100%;
+    width: 71px;
+    transition: background-color 0.3s ease;
+}
+
+.opacityTransMediaList {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 400ms, visibility 400ms;
+}
+
+.searchInputField {
+    font-size: 12px;
+    color: #4A4A4A;
+}
+.searchInputField::placeholder {
+    font-size: 12px;
+    color: #4A4A4A;
+}
+.searchInputField:focus {
+    outline: none !important;
+}
+
+
+.mediaFileSpan {
+    font-size: 14px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    width: 225px;
+    display:inline-block;
+    color: #FFF;
+}
+
+.selectAllBtn, .unselectAllBtn {
+    font-size: 12px;
+    border: 1px solid #FFF;
+    background-color: transparent;
+    color: #FFFFFF;
+    border-radius: 3px;
+    line-height: 20px;
+    padding: 0 15px;
+    float: right;
+    margin: 3px 15px 0 0;
+}
+
+.unselectAllBtn {
+    background-color: #4C5465;
+}
+
+.searchButtonQDis {
+    background-color: #B2B2B2;
+    border-radius: 3px;
+    border: 0;
+    padding: 5px 10px;
+    margin: 10px 14px;
+    color: #FFF;
+}
+
+.searchButtonQ {
+    background-color: #1B212E;
+    border-radius: 3px;
+    border: 0;
+    padding: 5px 10px;
+    margin: 10px 14px;
+    color: #FFF;
+}
+
+.divSelectSizeIcon {
+    width: 60px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    cursor: pointer;
+    border: 1px solid #7F7F7F;
+    border-radius: 3px;
+    position: relative;
+
+}
+
+.divSelectSizeIcon:hover {
+    background-color: #EFEFEF;
+}
+
+/* For Qsirch Date Panel */
+.dropdown-menu-qdate>li>a:hover, .dropdown-menu-qdate>li>a:focus {
+    text-decoration: none;
+    background-color: #F7F7F7;
+}
+
+.dropdown-menu-qdate::-webkit-scrollbar {
+    width: 6px;
+    background-color: transparent;
+}
+  
+.dropdown-menu-qdate::-webkit-scrollbar-thumb {
+    width: 6px;
+    background-color: rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+@keyframes myOrbit {
+    from { transform: rotate(0deg) translateX(10px) rotate(0deg); }
+    to   { transform: rotate(360deg) translateX(10px) rotate(-360deg); }
+}
+
+.searchLoadingIcon {
+    animation: myOrbit 1.3s linear infinite;
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+.scrollLoadingIcon {
+    animation: spin 1.3s linear infinite;
+    margin-top: 130px;
+    width: 35px;
+    height: 35px;
+}

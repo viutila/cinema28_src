@@ -1,0 +1,24 @@
+<svg id="book_close.png_book_close.svg" data-name="book_close.png,book_close.svg" xmlns="http://www.w3.org/2000/svg" width="16" height="18" viewBox="0 0 16 18">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #cb3232;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="矩形_143" data-name="矩形 143" class="cls-1" x="10" y="2" width="6" height="14"/>
+  <rect id="矩形_144" data-name="矩形 144" class="cls-2" x="10" y="4" width="4" height="1"/>
+  <rect id="矩形_144_拷貝" data-name="矩形 144 拷貝" class="cls-2" x="11" y="7" width="3" height="1"/>
+  <rect id="矩形_144_拷貝_2" data-name="矩形 144 拷貝 2" class="cls-2" x="10" y="10" width="4" height="1"/>
+  <rect id="矩形_144_拷貝_3" data-name="矩形 144 拷貝 3" class="cls-2" x="11" y="13" width="3" height="1"/>
+  <path id="形狀_283" data-name="形狀 283" class="cls-3" d="M91,3l11-3V18L91,15V3Z" transform="translate(-91)"/>
+  <path id="形狀_284" data-name="形狀 284" class="cls-4" d="M93,2v8l1.5-1.742L96,10V1Z" transform="translate(-91)"/>
+</svg>

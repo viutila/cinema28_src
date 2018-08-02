@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>noti</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.699999988">
+        <g id="noti" fill="#FFFFFF">
+            <path d="M0,10 C0,4.4771525 4.47593818,0 10,0 C15.5228475,0 20,4.47593818 20,10 C20,15.5228475 15.5240618,20 10,20 C4.4771525,20 0,15.5240618 0,10 Z M9,5.49703014 L9,11.5029699 C9,12.0469637 9.44771525,12.5 10,12.5 C10.5561352,12.5 11,12.0536144 11,11.5029699 L11,5.49703014 C11,4.95303631 10.5522847,4.5 10,4.5 C9.44386482,4.5 9,4.9463856 9,5.49703014 Z M9,14.5 C9,15.0561352 9.44771525,15.5 10,15.5 C10.5561352,15.5 11,15.0522847 11,14.5 C11,13.9438648 10.5522847,13.5 10,13.5 C9.44386482,13.5 9,13.9477153 9,14.5 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

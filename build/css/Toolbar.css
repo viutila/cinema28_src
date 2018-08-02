@@ -1,0 +1,63 @@
+.btn01 {
+    width: 45px;
+    height: 100%;
+    margin: 0 0 0 0;
+    padding: 0;
+    border: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+.btn01:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.btnSelectFilter {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 22px;
+    height: 22px;
+    border: 0px;
+    background-color: RGBA(0, 0, 0, 0);
+}
+.btnSelectFilter:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.btnMedialist {
+    position: absolute;
+    height: 28px;
+    width: 28px;
+    right: 16px;
+    top: 6px;
+    border: 0;
+    background: url("img/toolbar/slice/btn_media_playlist_normal.png") top left / cover no-repeat;
+}
+
+.btnMedialist:hover {
+    background: url("img/toolbar/slice/btn_media_playlist_hover.png") top left / cover no-repeat;
+}
+.btnMedialist:active {
+    background: url("img/toolbar/slice/btn_media_playlist_active.png") top left / cover no-repeat;
+}
+
+
+.btnOpenMediaList {
+    position: absolute;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    /*background: linear-gradient(to right, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0.25) 100%);*/
+    background-color: transparent;
+    border: 0;
+    border-radius: 15px;
+    top: 8px;
+    right: 16px;
+    padding: 0 20px;
+}
+
+.btnOpenMediaList:hover {
+    background-color: rgba(0,0,0,0.4);
+}

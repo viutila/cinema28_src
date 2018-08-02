@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>simplemode_list_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="simplemode_list_1">
+            <g id="Group" transform="translate(5.000000, 6.000000)">
+                <path d="M11.0640182,5.02370533 C10.8658679,5.33508443 10.5437642,5.33376677 10.3464524,5.02370533 L9.50015017,3.69380185 C9.30199983,3.38242275 9.44126773,3.13000011 9.81234511,3.13000011 L11.5981255,3.13000011 C11.9686963,3.13000011 12.1076323,3.38374041 11.9103204,3.69380185 L11.0640182,5.02370533 Z" id="Triangle-2-Copy" fill="#FFFFFF" transform="translate(10.705000, 4.193373) rotate(-360.000000) translate(-10.705000, -4.193373) "></path>
+                <path d="M8.65998859,1.00615592 C7.76471699,0.372416801 6.67136829,0 5.49103699,0 C2.458421,0 0,2.458421 0,5.49103699 C0,8.52365298 2.458421,10.982074 5.49103699,10.982074 C7.65359003,10.982074 9.52415972,9.73194462 10.4194938,7.91493811" id="Oval-5" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

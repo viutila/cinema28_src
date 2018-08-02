@@ -1,0 +1,83 @@
+.mainpage-audio_mute_disable, .mainpage-audio_mute_normal, .mainpage-audio_vol3_disable, .mainpage-audio_vol3_normal, .mainpage-more_disable, .mainpage-more_normal, .mainpage-pause_disable, .mainpage-pause_normal, .mainpage-play_disable, .mainpage-play_normal, .mainpage-playlist_disable, .mainpage-playlist_normal, .mainpage-stop_disable, .mainpage-stop_normal, .mainpage-thumbnail_default_idle, .mainpage-thumbnail_default_onair {
+    background-image: url(mainpage.png);
+}
+.mainpage-audio_mute_disable {
+    background-position: -110px -48px;
+    width: 16px;
+    height: 16px;
+}
+.mainpage-audio_mute_normal {
+    background-position: -110px 0px;
+    width: 16px;
+    height: 16px;
+}
+.mainpage-audio_vol3_disable {
+    background-position: -110px -32px;
+    width: 16px;
+    height: 16px;
+}
+.mainpage-audio_vol3_normal {
+    background-position: -110px -16px;
+    width: 16px;
+    height: 16px;
+}
+.mainpage-more_disable {
+    background-position: -82px -77px;
+    width: 20px;
+    height: 20px;
+}
+.mainpage-more_normal {
+    background-position: -22px -77px;
+    width: 20px;
+    height: 20px;
+}
+.mainpage-pause_disable {
+    background-position: -22px -55px;
+    width: 22px;
+    height: 22px;
+}
+.mainpage-pause_normal {
+    background-position: -44px -55px;
+    width: 22px;
+    height: 22px;
+}
+.mainpage-play_disable {
+    background-position: -88px -55px;
+    width: 22px;
+    height: 22px;
+}
+.mainpage-play_normal {
+    background-position: 0px -77px;
+    width: 22px;
+    height: 22px;
+}
+.mainpage-playlist_disable {
+    background-position: -62px -77px;
+    width: 20px;
+    height: 20px;
+}
+.mainpage-playlist_normal {
+    background-position: -42px -77px;
+    width: 20px;
+    height: 20px;
+}
+.mainpage-stop_disable {
+    background-position: -66px -55px;
+    width: 22px;
+    height: 22px;
+}
+.mainpage-stop_normal {
+    background-position: 0px -55px;
+    width: 22px;
+    height: 22px;
+}
+.mainpage-thumbnail_default_idle {
+    background-position: -55px 0px;
+    width: 55px;
+    height: 55px;
+}
+.mainpage-thumbnail_default_onair {
+    background-position: 0px 0px;
+    width: 55px;
+    height: 55px;
+}

@@ -1,0 +1,50 @@
+.closeBtn {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background: url("img/genius/genius_close.svg") top left / cover no-repeat;
+}
+
+.closeBtn:hover {
+    background: url("img/genius/genius_close.svg") top left / cover no-repeat;
+}
+
+.closeBtn:active {
+    background: url("img/genius/genius_close.svg") top left / cover no-repeat;
+}
+
+.backBtn {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    background: url("img/genius/genius_back.svg") top left / cover no-repeat;
+}
+
+.backBtn:hover {
+    background: url("img/genius/genius_back.svg") top left / cover no-repeat;
+}
+
+.backBtn:active {
+    background: url("img/genius/genius_back.svg") top left / cover no-repeat;
+}
+
+
+
+.menuItem:hover {
+    background: linear-gradient(to right, rgba(255,255,255,0.15) 0%, rgba(26,30,48,0.15) 100%);
+}
+
+.whiteLink {
+    color: #FFF;
+    text-decoration: underline;
+}
+
+.whiteLink:hover {
+    color: #B2B2B2;
+}
+
+.whiteLink:active {
+    color: #CFCFCF;
+}

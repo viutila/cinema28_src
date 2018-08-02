@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>device_samba</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.38425745,1.42979921 C3.52948481,0.64014291 4.29290401,0 5.09938637,0 L16.7839028,0 C17.5859149,0 18.3478658,0.637894651 18.4866477,1.42979921 L21.0878134,16.2723308 L0.654535974,16.2723308 L3.38425745,1.42979921 Z" id="path-1"></path>
+        <rect id="path-2" x="0.583554342" y="13.8461538" width="20.5702923" height="6.15384615" rx="3.07692308"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device_samba">
+            <g id="Group" transform="translate(6.000000, 5.000000)">
+                <g id="Rectangle-5">
+                    <use fill="#2A8BAB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#2A8BAB" stroke-width="0.72675" d="M20.6552187,15.9089558 L1.09083428,15.9089558 L3.74163874,1.49552596 L3.74163874,1.49552596 C3.85546882,0.876588575 4.46999062,0.363375 5.09938637,0.363375 L16.7839028,0.363375 C17.4103133,0.363375 18.0205634,0.875328779 18.1287275,1.49252501 L20.6552187,15.9089558 Z"></path>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#2A8BAB" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#FFFFFF" stroke-width="1" x="1.08355434" y="14.3461538" width="19.5702923" height="5.15384615" rx="2.57692308"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle-14" fill="#2A8BAB" x="12.5" y="27" width="9" height="4" rx="1"></rect>
+            <rect id="Rectangle-14-Copy" fill="#2A8BAB" x="5" y="28" width="24" height="2" rx="1"></rect>
+            <rect id="Rectangle-14-Copy" fill="#2A8BAB" transform="translate(17.000000, 26.500000) rotate(-270.000000) translate(-17.000000, -26.500000) " x="13.5" y="25.5" width="7" height="2" rx="1"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,289 @@
+.OverlayClass {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+.OverlaySecondClass {
+    /*background-color: rgba(0, 0, 0, 0.15);*/
+}
+.modalPopup {
+    width: 70%;
+    height: 650px;
+    background-color: white;
+    padding: 20px;
+    top: 5%;
+    left: 15%;
+    border-radius: 5px;
+    position: absolute;
+    outline: none;
+}
+
+.createFormPopup {
+    width: 600px;
+    height: 550px;
+    background-color: white;
+    padding: 20px;
+    top: 5%;
+    left: calc((100% - 600px)/2);
+    border-radius: 5px;
+    position: absolute;
+    outline: none;
+}
+.createFormPopup label,.popupMain label {
+    display: block;
+}
+.attrKeybox label {
+    display: inline-block;
+}
+
+.userProfilePopup {
+    width: 650px;
+    height: 600px;
+    background-color: white;
+    padding: 20px;
+    top: 5%;
+    left: calc((100% - 600px)/2);
+    border-radius: 5px;
+    position: absolute;
+    outline: none;
+}
+.secondPopup {
+    /*top: 7%;
+    left: 20%;*/
+}
+
+.popupMain {
+    overflow: auto;
+}
+
+.iotApplicationPopup .popupMain,
+.addThingsPopup .popupMain {
+    max-height: 450px;
+}
+
+.popupFooter {
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    display: inline-block;
+    width: 100%;
+    left: 0;
+    right: 0;
+    padding: 20px;
+}
+
+.progressBar {
+    position: relative;
+}
+
+.progressBar .windowCloseBtn {
+    position: absolute;
+    right: -10px;
+    top: -10px;
+}
+
+.iotApplicationPopup .progressBar ul li {
+    width: 33%;
+}
+
+.addThingsPopup .progressBar ul li {
+    width: 50%;
+}
+
+.progressBar ul li {
+    font-size: 14px;
+    text-align: center;
+    color: #666;
+    cursor: default;
+    padding: 10px 10px 10px 30px;
+    display: inline-block;
+    position: relative;
+    background-color: #d9e3f7;
+    transition: background-color 0.5s ease;
+    height: 36px;
+}
+
+.progressBar ul li:after,
+.progressBar ul li:before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    right: -16px;
+    width: 0;
+    height: 0;
+    border-top: 17px solid transparent;
+    border-bottom: 19px solid transparent;
+    border-left: 17px solid #d9e3f7;
+    z-index: 2;
+    transition: border-color 0.5s ease;
+}
+
+.progressBar ul li:before {
+    border-left: 17px solid #fff;
+    z-index: 0;
+}
+
+.progressBar ul li:first-child:before {
+    border: none;
+}
+
+.progressBar ul li:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.progressBar ul li.active {
+    color: #fff;
+    background-color: pink;
+}
+
+.progressBar ul li.active:after {
+    border-left: 17px solid pink;
+}
+
+
+/* for msg popup style */
+.OverlayForMsgPopup {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.25);
+    z-index: 99999999999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+}
+
+.msgPopupHDMI {
+    width: 350px;
+}
+
+.msgPopup {
+    width: 530px;
+    height: initial;
+    background-color: #fafafa;
+    padding: 24px;
+    /*top: 40%;*/
+    /*left: calc((100% - 530px)/2);*/
+    position: relative;
+    outline: 1px solid #b0b0b0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+}
+.msgPopup.msgPopupHDMI {
+    width: 350px;
+}
+.msgPopup .msgCloseIcon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 11px;
+    height: 11px;
+    border: 0;
+    cursor: pointer;
+}
+.msgPopup .msgBox {
+    padding-left: 48px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 20px;
+    min-height: 34px;
+    position: relative;
+}
+
+.msgPopup .msgBox label.checkbox{
+    position: absolute;
+    left: 0;
+    bottom: -20px;
+    padding-left: 20px;
+}
+
+.msgPopup .footer {
+    text-align: right;
+}
+.i_msgClose {
+    background: url("img/window_tool/btn_close.png") no-repeat scroll 0 0; 
+}
+.i_msgClose:hover {
+    background: url("img/window_tool/btn_close_over.png") no-repeat scroll 0 0; 
+}
+.i_msgClose:active {
+    background: url("img/window_tool/btn_close_pressed.png") no-repeat scroll 0 0; 
+}
+.i_info {
+    background: url("img/msg/info.png") no-repeat scroll 0 0;
+}
+.i_warning {
+    background: url("img/msg/warning.png") no-repeat scroll 0 0;
+}
+.i_help {
+    background: url("img/msg/help.png") no-repeat scroll 0 0;
+}
+.i_error {
+    background: url("img/msg/error.png") no-repeat scroll 0 0;
+}
+.i_charging {
+    background: url("img/msg/charging.png") no-repeat scroll 0 0;
+}
+.i_ok {
+    background: url("img/msg/ok.png") no-repeat scroll 0 0;
+}
+.i_remind {
+    background: url("img/msg/remind.png") no-repeat scroll 0 0;
+}
+
+.noBtnStyle {
+    background-color: #fff;
+    border: 1px solid #2f2f2f;
+    color: #2f2f2f;
+    height: 30px;
+    margin-left: 8px;
+    min-width: 80px;
+    padding: 0 22px;
+    line-height: 30px;
+}
+.disable.noBtnStyle {
+    border: 1px solid #aeaeae;
+    color: #aeaeae;
+}
+.noBtnStyle:hover {
+    color:#707070; 
+    border: 1px solid #707070;   
+}
+.noBtnStyle:focus {
+    border: 1px solid #2f2f2f;
+    color: #2f2f2f;
+    padding: 0 21px;
+}
+
+.yesBtnStyle {
+    background-color: #fff;
+    border: 1px solid #2f2f2f;
+    color: #2f2f2f;
+    height: 30px;
+    margin-left: 8px;
+    min-width: 80px;
+    padding: 0 22px;
+    line-height: 30px;
+}
+.disable.yesBtnStyle {
+    border: 1px solid #aeaeae;
+    color: #aeaeae;
+}
+
+.yesBtnStyle:hover{
+    color:#707070;
+    border: 1px solid #707070;
+}
+.yesBtnStyle:focus{
+    border: 1px solid #2f2f2f;
+    color: #2f2f2f;
+    padding: 0 21px;
+}
+

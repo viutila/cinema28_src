@@ -1,0 +1,153 @@
+.device icon-amplifier, .device icon-amplifier_on, .device icon-appletv, .device icon-appletv_on, .device icon-default_analog, .device icon-default_analog_on, .device icon-default_bluetooth, .device icon-default_bluetooth_on, .device icon-default_chromecast, .device icon-default_chromecast_on, .device icon-default_dlna, .device icon-default_dlna_on, .device icon-default_hdmi, .device icon-default_hdmi_on, .device icon-default_tv, .device icon-default_tv_on, .device icon-default_usb, .device icon-default_usb_on, .device icon-fish, .device icon-fish_on, .device icon-game, .device icon-game_on, .device icon-laptop, .device icon-laptop_on, .device icon-pc, .device icon-pc_on, .device icon-speaker, .device icon-speaker_on, .device icon-tv, .device icon-tv_on {
+    background-image: url(device%20icon.png);
+}
+.device icon-amplifier {
+    background-position: -30px 0px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-amplifier_on {
+    background-position: -90px -90px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-appletv {
+    background-position: 0px -30px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-appletv_on {
+    background-position: -30px -30px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_analog {
+    background-position: -60px 0px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_analog_on {
+    background-position: -60px -30px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_bluetooth {
+    background-position: 0px -60px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_bluetooth_on {
+    background-position: -30px -60px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_chromecast {
+    background-position: -60px -60px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_chromecast_on {
+    background-position: -90px 0px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_dlna {
+    background-position: -90px -30px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_dlna_on {
+    background-position: -90px -60px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_hdmi {
+    background-position: 0px -90px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_hdmi_on {
+    background-position: -30px -90px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_tv {
+    background-position: -60px -90px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_tv_on {
+    background-position: 0px 0px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_usb {
+    background-position: -120px 0px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-default_usb_on {
+    background-position: -120px -30px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-fish {
+    background-position: -120px -60px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-fish_on {
+    background-position: -120px -90px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-game {
+    background-position: 0px -120px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-game_on {
+    background-position: -30px -120px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-laptop {
+    background-position: -60px -120px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-laptop_on {
+    background-position: -90px -120px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-pc {
+    background-position: -120px -120px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-pc_on {
+    background-position: -150px 0px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-speaker {
+    background-position: -150px -30px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-speaker_on {
+    background-position: -150px -60px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-tv {
+    background-position: -150px -90px;
+    width: 30px;
+    height: 30px;
+}
+.device icon-tv_on {
+    background-position: -150px -120px;
+    width: 30px;
+    height: 30px;
+}

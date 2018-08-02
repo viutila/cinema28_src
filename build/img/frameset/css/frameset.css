@@ -1,0 +1,63 @@
+.frameset-frameset_help, .frameset-frameset_more_active, .frameset-frameset_more_hover, .frameset-frameset_more_normal, .frameset-frameset_refresh_active, .frameset-frameset_refresh_disable, .frameset-frameset_refresh_hover, .frameset-frameset_refresh_normal {
+    background-image: url(frameset.png);
+}
+.frameset-frameset_help {
+    background-position: 0px 0px;
+    width: 24px;
+    height: 24px;
+}
+.frameset-frameset_more:active {
+    background-position: -24px 0px;
+    width: 24px;
+    height: 24px;
+}
+.frameset-frameset_more_active {
+    background-position: -24px 0px;
+    width: 24px;
+    height: 24px;
+}
+.frameset-frameset_more:hover {
+    background-position: -48px 0px;
+    width: 20px;
+    height: 20px;
+}
+.frameset-frameset_more_hover {
+    background-position: -48px 0px;
+    width: 20px;
+    height: 20px;
+}
+.frameset-frameset_more_normal {
+    background-position: -48px -20px;
+    width: 20px;
+    height: 20px;
+}
+.frameset-frameset_refresh:active {
+    background-position: 0px -24px;
+    width: 24px;
+    height: 24px;
+}
+.frameset-frameset_refresh_active {
+    background-position: 0px -24px;
+    width: 24px;
+    height: 24px;
+}
+.frameset-frameset_refresh_disable {
+    background-position: -24px -24px;
+    width: 24px;
+    height: 24px;
+}
+.frameset-frameset_refresh:hover {
+    background-position: 0px -48px;
+    width: 20px;
+    height: 20px;
+}
+.frameset-frameset_refresh_hover {
+    background-position: 0px -48px;
+    width: 20px;
+    height: 20px;
+}
+.frameset-frameset_refresh_normal {
+    background-position: -20px -48px;
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>device_usb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.3000002,9.76442689 L10.3000002,5.1 C10.3000002,4.49248678 10.792487,4 11.4000002,4 L16.4394174,4 C17.0469307,4 17.5394174,4.49248678 17.5394174,5.1 L17.5394174,9.76442689" id="path-1"></path>
+        <path d="M8,10 L20,10 L20,21.3461538 L20,21.3461538 C20,22.4507233 19.1045695,23.3461538 18,23.3461538 L10,23.3461538 L10,23.3461538 C8.8954305,23.3461538 8,22.4507233 8,21.3461538 L8,10 Z" id="path-3"></path>
+    </defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device_usb">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(13.919709, 6.882213) rotate(-360.000000) translate(-13.919709, -6.882213) " xlink:href="#path-1"></use>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.000000, 16.673077) rotate(-360.000000) translate(-14.000000, -16.673077) " xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

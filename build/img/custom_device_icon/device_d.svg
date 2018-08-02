@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="60px" viewBox="0 0 70 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>device_d</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.300000012">
+        <g id="device_d" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group-2" transform="translate(12.000000, 12.000000)">
+                <g id="Group-15-Copy" transform="translate(23.000000, 15.000000) rotate(-90.000000) translate(-23.000000, -15.000000) translate(8.000000, -7.500000)" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M24.9073784,45 L5.09168283,45 C2.28018024,45 0,42.679595 0,39.8184945 L1.66752316e-15,5.18150554 C1.66752316e-15,2.31944975 2.28018024,0 5.09168283,0 L24.9073784,0 C27.7198198,0 30,2.31944975 30,5.18150554 L30,39.8184945 C30,42.679595 27.7198198,45 24.9073784,45 Z" id="Stroke-3"></path>
+                    <path d="M22.4150796,31.2068238 C22.4150796,35.1875451 19.1882611,38.4143636 15.2075398,38.4143636 C11.2275345,38.4143636 8,35.1875451 8,31.2068238 C8,27.2261025 11.2275345,24 15.2075398,24 C19.1882611,24 22.4150796,27.2261025 22.4150796,31.2068238 Z" id="Stroke-5"></path>
+                </g>
+                <g id="Group" transform="translate(7.000000, 30.000000)">
+                    <path d="M5,0 L5,2.64507049 C5,4.02578236 3.88071187,5.14507049 2.5,5.14507049 C1.11928813,5.14507049 3.55271368e-15,4.02578236 0,2.64507049 L0,0" id="Rectangle-22"></path>
+                    <path d="M32,0 L32,2.64507049 C32,4.02578236 30.8807119,5.14507049 29.5,5.14507049 C28.1192881,5.14507049 27,4.02578236 27,2.64507049 L27,0" id="Rectangle-22-Copy"></path>
+                </g>
+                <path d="M8,10 L8,20" id="Path-5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M13,10 L13,20" id="Path-5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M18,10 L18,20" id="Path-5" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

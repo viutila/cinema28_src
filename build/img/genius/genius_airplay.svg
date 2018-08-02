@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>genius_airplay</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="genius_airplay" stroke="#FFFFFF">
+            <g id="Group" transform="translate(5.000000, 6.500000)">
+                <polygon id="Fill-1" stroke-width="0.5" fill="#FFFFFF" points="4 14.3300847 14.1668751 14.3300847 9.08349375 8.39999962"></polygon>
+                <path d="M3.95274345,10.3881248 C2.68112891,10.3881248 1.53021442,10.3881248 0.5,10.3881248 L0.5,0 L17.4987496,0 L17.4987496,10.3881248 L14.0483132,10.3881248" id="Rectangle-28" stroke-width="1.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

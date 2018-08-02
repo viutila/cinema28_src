@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="38px" viewBox="0 0 65 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>pic_musicstation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="55.7821333%" x2="-11.3391679%" y2="55.7821305%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#6053B7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.1262899%" y1="100%" x2="24.5555948%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#5349B0" offset="0%"></stop>
+            <stop stop-color="#7060BF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-23.9%" y="-22.0%" width="147.8%" height="152.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pic_musicstation">
+            <g id="musicstation.png">
+                <g id="Group-12" opacity="0.900000036" transform="translate(14.000000, 0.000000)" fill="url(#linearGradient-1)">
+                    <rect id="Rectangle-11" x="-2.27373675e-13" y="-4.54747351e-13" width="49.3046547" height="17.4577402"></rect>
+                    <rect id="Rectangle-11-Copy-3" x="-2.27373675e-13" y="20.5263158" width="49.3046547" height="17.4577402"></rect>
+                </g>
+                <rect id="Rectangle-4-Copy-3" fill="url(#linearGradient-2)" x="0" y="0" width="38" height="38" rx="8"></rect>
+                <g id="Group-20" filter="url(#filter-3)" transform="translate(6.500000, 8.000000)">
+                    <ellipse id="Oval-6" fill="#FFFFFF" transform="translate(4.845881, 20.298430) rotate(-23.000000) translate(-4.845881, -20.298430) " cx="4.84588066" cy="20.2984302" rx="3.68" ry="2.76"></ellipse>
+                    <ellipse id="Oval-6" fill="#FFFFFF" transform="translate(17.905878, 17.778441) rotate(-23.000000) translate(-17.905878, -17.778441) " cx="17.9058782" cy="17.7784412" rx="3.68" ry="2.76"></ellipse>
+                    <polyline id="Path-8" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="7.36 19.2984877 7.36 4.88269822 20.460888 0 20.460888 16.9438942"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

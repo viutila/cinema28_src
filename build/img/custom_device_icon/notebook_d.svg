@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="60px" viewBox="0 0 70 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>notebook_d</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" opacity="0.300000012" stroke-linejoin="round">
+        <g id="notebook_d" stroke="#FFFFFF">
+            <g id="Group-18" transform="translate(8.000000, 13.000000)">
+                <path d="M48.2845,27.3105808 L7.04759524,27.3105808 L7.04759524,2.83078992 C7.04759524,1.30925117 8.28989683,0.0762502334 9.8229127,0.0762502334 L45.5091825,0.0762502334 C47.0421984,0.0762502334 48.2845,1.30925117 48.2845,2.83078992 L48.2845,27.3105808 Z" id="Stroke-63" stroke-width="1.9"></path>
+                <path d="M48.5057222,32.3409255 L6.82619841,32.3409255 C4.3835,32.3409255 2.10230952,29.828918 0.744769841,27.3109274 L54.5880238,27.3109274 C53.2296111,29.828918 50.9484206,32.3409255 48.5057222,32.3409255 Z" id="Stroke-64" stroke-width="1.9"></path>
+                <path d="M7.5,5 L48.1899986,5" id="Stroke-60" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

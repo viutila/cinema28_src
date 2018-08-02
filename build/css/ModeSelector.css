@@ -1,0 +1,45 @@
+.divModeItem {
+    padding: 0 22px 0 5px;
+    width: 100%;
+    border: none;
+    background-color: RGBA(0, 0, 0, 0);
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    -ms-flex-align: center;
+    -ms-flex-pack: start;
+}
+
+.divModeItem:hover {
+    background-color: #6F7484;
+}
+
+.divFilterItem {
+    padding: 0 22px 0 5px;
+    width: 100%;
+    border: none;
+    background-color: RGBA(0, 0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    -ms-flex-align: center;
+    -ms-flex-pack: start;
+}
+
+.divFilterItem:hover {
+    background-color: #6F7484;
+}
+
+.divFilterItemDisable {
+    padding: 0 22px 0 5px;
+    width: 100%;
+    border: none;
+    background-color: RGBA(0, 0, 0, 0);
+    cursor: default;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    -ms-flex-align: center;
+    -ms-flex-pack: start;
+}

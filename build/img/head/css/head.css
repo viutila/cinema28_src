@@ -1,0 +1,88 @@
+.head-head_analog, .head-head_bluetooth, .head-head_close_hover, .head-head_close_normal, .head-head_close_pressed, .head-head_hdmi, .head-head_network player, .head-head_open_hover, .head-head_open_normal, .head-head_open_pressed, .head-head_usb, .head-network_ chromecast, .head-network_bluetooth, .head-network_dlna, .head-network_tv {
+    background-image: url(head.png);
+}
+.head-head_analog {
+    background-position: -25px 0px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_bluetooth {
+    background-position: -25px -50px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_close:hover {
+    background-position: 0px -25px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_close_hover {
+    background-position: 0px -25px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_close_normal {
+    background-position: -25px -25px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_close_pressed {
+    background-position: -50px 0px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_hdmi {
+    background-position: -50px -25px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_network player {
+    background-position: 0px -50px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_open:hover {
+    background-position: 0px 0px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_open_hover {
+    background-position: 0px 0px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_open_normal {
+    background-position: -50px -50px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_open_pressed {
+    background-position: -75px 0px;
+    width: 25px;
+    height: 25px;
+}
+.head-head_usb {
+    background-position: -75px -25px;
+    width: 25px;
+    height: 25px;
+}
+.head-network_ chromecast {
+    background-position: -75px -50px;
+    width: 25px;
+    height: 25px;
+}
+.head-network_bluetooth {
+    background-position: 0px -75px;
+    width: 25px;
+    height: 25px;
+}
+.head-network_dlna {
+    background-position: -25px -75px;
+    width: 25px;
+    height: 25px;
+}
+.head-network_tv {
+    background-position: -50px -75px;
+    width: 25px;
+    height: 25px;
+}

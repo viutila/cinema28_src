@@ -1,0 +1,17 @@
+<svg id="frameset__quick_start.png_frameset__quick_start.svg" data-name="frameset_ quick_start.png,frameset_ quick_start.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="18" viewBox="0 0 16 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="4" y="419" width="16" height="18" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#3f4049"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="ic_magicbar" class="cls-1" d="M19.159,437l-8.271-8.453,0.838-.857L20,436.146Zm-10.9-7.637L6.756,426.55,4,425.01l2.755-1.54,1.507-2.817L9.77,423.47l2.755,1.54L9.77,426.55ZM6.471,425.01l1.158,0.647,0.633,1.184L8.9,425.657l1.158-.647L8.9,424.362l-0.633-1.184L7.63,424.362Zm11.929,3-1.2-.861-1.2.861,0.848-1.223-0.848-1.222,1.2,0.86,1.2-.86-0.848,1.222Zm-10.15,6.4-1.944-1.4-1.943,1.4,1.369-1.987-1.369-1.987,1.943,1.4,1.944-1.4-1.37,1.987Zm9.6-11.439-1.944-1.4-1.943,1.4,1.369-1.987L13.963,419l1.943,1.4L17.85,419l-1.37,1.986Z" transform="translate(-4 -419)"/>
+</svg>

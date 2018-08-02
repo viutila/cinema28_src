@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>frameset_reflash_3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" opacity="0.300000012" stroke-linejoin="round">
+        <g id="frameset_reflash_3" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="reflash" transform="translate(2.000000, 4.000000)">
+                <g id="1" transform="translate(10.000000, 8.000000) scale(-1, 1) translate(-10.000000, -8.000000) translate(0.000000, 0.500000)">
+                    <polyline id="Stroke-2796" points="0.772333333 5.99933333 3.09483333 9.45766667 5.76566667 6.25933333"></polyline>
+                    <polyline id="Stroke-2797" points="19.5833333 9.58333333 17.2616667 6.125 14.59 9.3225"></polyline>
+                    <path d="M17.2306667,6.15558333 C17.9256667,9.82891667 15.3365,13.42975 11.8065,14.2630833 C9.34483333,14.8455833 6.8765,14.0630833 5.19816667,12.4089167" id="Stroke-2798"></path>
+                    <path d="M3.099,9.43683333 C2.004,5.36766667 4.74066667,1.37516667 8.54733333,0.476 C11.1773333,-0.1465 13.8106667,0.786 15.484,2.67683333" id="Stroke-2799"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

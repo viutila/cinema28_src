@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="60px" viewBox="0 0 70 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>tv_l</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tv_l" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group-19" transform="translate(12.000000, 13.200000)" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M44.1561222,33 L2.84387784,33 C1.27348492,33 0,31.754816 0,30.2193222 L0,2.77892896 C0,1.2443096 1.27348492,0 2.84387784,0 L44.1561222,0 C45.7265151,0 47,1.2443096 47,2.77892896 L47,30.2193222 C47,31.754816 45.7265151,33 44.1561222,33 Z" id="Stroke-56"></path>
+                <path d="M39.7612025,28 L7.23879745,28 C6.00253068,28 5,27.1321445 5,26.0619518 L5,6.93682927 C5,5.86724608 6.00253068,5 7.23879745,5 L39.7612025,5 C40.9974693,5 42,5.86724608 42,6.93682927 L42,26.0619518 C42,27.1321445 40.9974693,28 39.7612025,28 Z" id="Stroke-56"></path>
+            </g>
+            <g id="Group-2" transform="translate(28.500000, 8.000000)" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4.856,4.856 L0,0" id="Stroke-9"></path>
+                <path d="M10,4.856 L14.857,0" id="Stroke-10"></path>
+            </g>
+            <g id="Group" transform="translate(19.500000, 46.100001)">
+                <path d="M5,0 L5,2.64507049 C5,4.02578236 3.88071187,5.14507049 2.5,5.14507049 C1.11928813,5.14507049 3.55271368e-15,4.02578236 0,2.64507049 L0,0" id="Rectangle-22"></path>
+                <path d="M32,0 L32,2.64507049 C32,4.02578236 30.8807119,5.14507049 29.5,5.14507049 C28.1192881,5.14507049 27,4.02578236 27,2.64507049 L27,0" id="Rectangle-22-Copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>

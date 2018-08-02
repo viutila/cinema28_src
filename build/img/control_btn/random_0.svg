@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>random_0</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" opacity="0.5" stroke-linejoin="round">
+        <g id="random_0" stroke="#FFFFFF" stroke-width="1.3">
+            <g id="Group-2" transform="translate(2.000000, 4.500000)">
+                <g id="Group-3" transform="translate(13.699997, 0.000000)">
+                    <polyline id="Rectangle-7" transform="translate(2.548097, 10.649339) rotate(-495.000000) translate(-2.548097, -10.649339) " points="4.09619408 12.197436 1 12.197436 1 9.10124187 1 9.10124187"></polyline>
+                    <polyline id="Rectangle-7" transform="translate(2.548097, 2.249339) rotate(-495.000000) translate(-2.548097, -2.249339) " points="4.09619408 3.79743633 1 3.79743633 1 0.701242255"></polyline>
+                </g>
+                <path d="M0,1.24779732 C2.96163932,0.813778791 5.72345822,2.44467862 8.28545672,6.14049681 C10.8474552,9.836315 13.7745976,11.3303629 17.0668839,10.6226406 L18,10.6226406" id="Path-4"></path>
+                <g id="Group-2-Copy" transform="translate(9.000000, 6.679379) scale(-1, 1) translate(-9.000000, -6.679379) translate(0.000000, 1.179379)">
+                    <path d="M0,0.999999904 L0.723012902,0.999999904 C4.18416701,0.378164923 7.24673115,1.95308114 9.91070534,5.72474855 C12.5746795,9.49641596 15.2261909,11.1384784 17.8652394,10.650936" id="Path-4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

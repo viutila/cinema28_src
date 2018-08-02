@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>check_mark_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check_mark_1">
+            <g id="Group-3" transform="translate(1.000000, 1.000000)">
+                <rect id="Checkbox" stroke="#424978" fill="#424978" x="0" y="0" width="15" height="15" rx="3"></rect>
+                <polyline id="check" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="3 7.99542009 5.61310001 10.5952602 11.7703 4.3999939"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>join_beta_0</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="join_beta_0" stroke="#FFFFFF" stroke-width="1.5">
+            <g transform="translate(5.000000, 3.000000)" id="Shape">
+                <path d="M6.2,17.6 L6.2,3.5 C6.2,2.6 6.9,1.9 7.8,1.9 L7.8,1.9 C8.7,1.9 9.4,2.6 9.4,3.5 L9.4,14.1"></path>
+                <path d="M5.8,22.6 C5.5,22.3 4.3,21 2.8,18.7 C1.4,16.5 0.9,14.6 0.9,14.6 C0.6,13.6 0.8,12.8 1.6,12.4 L1.6,12.4 C2.4,12 3.4,12.3 3.8,13.1 L6.2,17.7"></path>
+                <path d="M9.4,11 L9.4,2.1 C9.4,1.2 10.1,0.5 11,0.5 L11,0.5 C11.9,0.5 12.6,1.2 12.6,2.1 L12.6,11"></path>
+                <path d="M12.7,12.5 L12.7,3.6 C12.7,2.7 13.4,2 14.3,2 L14.3,2 C15.2,2 15.9,2.7 15.9,3.6 L15.9,12.5"></path>
+                <path d="M16,12.4 L16,7.1 C16,6.3 16.7,5.6 17.5,5.6 L17.5,5.6 C18.3,5.6 19,6.3 19,7.1 C19,7.1 19.5,14.2 19,15.8 C18.3,18.5 16.5,22.9 16.5,22.6"></path>
+                <path d="M9.8,17.5 C10.5,18.2 11.8,20.2 11.4,23.5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

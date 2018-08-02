@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>device_zoom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="device_zoom" stroke="#4C4C4C" stroke-width="1.5">
+            <g id="zoom" transform="translate(7.000000, 7.000000)">
+                <path d="M5.5,11 C2.462625,11 0,8.5366875 0,5.5 C0,2.462625 2.462625,0 5.5,0 C8.537375,0 11,2.462625 11,5.5 C11,8.5366875 8.537375,11 5.5,11 Z" id="Stroke-240"></path>
+                <path d="M10,10 L14,14" id="Stroke-241" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

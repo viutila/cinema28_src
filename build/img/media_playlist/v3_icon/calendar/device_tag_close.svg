@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>device_tag_close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slice" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="device_tag_close" stroke="#4C4C4C" stroke-width="1.5">
+            <g id="x" transform="translate(9.000000, 9.000000) rotate(-270.000000) translate(-9.000000, -9.000000) translate(6.000000, 6.000000)">
+                <path d="M-2.84217094e-13,-2.84217094e-13 L6,6 L-2.84217094e-13,-2.84217094e-13 Z" id="close"></path>
+                <path d="M-2.85105273e-13,-2.84217094e-13 L6,6 L-2.85105273e-13,-2.84217094e-13 Z" id="close" transform="translate(3.000000, 3.000000) rotate(-270.000000) translate(-3.000000, -3.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>back</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="20" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="back" stroke="#474747">
+            <g id="Group">
+                <use id="Rectangle-2" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                <path d="M6,8 L9.23193359,8 L12.9997946,8 C14.1053202,8 15.0015258,8.88784764 15.0015258,9.9977106 L15.0015258,15.2406649" id="Path-4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Triangle" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" fill="#4A4A4A" points="4 8 8 5 8 11"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
